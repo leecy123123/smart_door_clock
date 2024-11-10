@@ -1,0 +1,1 @@
+-IF:/SeetaFace2/SeetaFace2/example/points81 -IF:/SeetaFace2/SeetaFace2/SeetaNet/include -IF:/SeetaFace2/SeetaFace2/FaceDetector/include -IF:/SeetaFace2/SeetaFace2/FaceLandmarker/include -I"F:/SeetaFace2/build-SeetaFace2-Desktop_Qt_5_14_2_MinGW_64_bit-Release" -isystem F:/OpenCV_BY/include

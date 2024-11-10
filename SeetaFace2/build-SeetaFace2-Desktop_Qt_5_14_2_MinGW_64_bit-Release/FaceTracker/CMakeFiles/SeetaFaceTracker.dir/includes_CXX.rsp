@@ -1,0 +1,1 @@
+-IF:/SeetaFace2/SeetaFace2/FaceTracker -IF:/SeetaFace2/SeetaFace2/FaceTracker/include -IF:/SeetaFace2/SeetaFace2/FaceTracker/include/seeta -IF:/SeetaFace2/SeetaFace2/FaceTracker/seeta -IF:/SeetaFace2/SeetaFace2/SeetaNet/include -IF:/SeetaFace2/SeetaFace2/FaceDetector/include -I"F:/SeetaFace2/build-SeetaFace2-Desktop_Qt_5_14_2_MinGW_64_bit-Release"

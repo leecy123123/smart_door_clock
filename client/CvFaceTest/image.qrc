@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>UI_Pic/Alarm.png</file>
+        <file>UI_Pic/Arrows.png</file>
+        <file>UI_Pic/Calendar.png</file>
+        <file>UI_Pic/CutRule.png</file>
+        <file>UI_Pic/FacePic.png</file>
+        <file>UI_Pic/IdentityCard.png</file>
+        <file>UI_Pic/Person.png</file>
+        <file>UI_Pic/titelbac.png</file>
+        <file>UI_Pic/Yes.png</file>
+    </qresource>
+</RCC>

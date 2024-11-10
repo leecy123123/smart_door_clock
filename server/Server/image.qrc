@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/bac003.png</file>
+        <file>img/bc2.png</file>
+        <file>img/border.png</file>
+        <file>img/button.png</file>
+        <file>img/dataf.png</file>
+        <file>img/line_top.png</file>
+        <file>img/room.png</file>
+    </qresource>
+</RCC>

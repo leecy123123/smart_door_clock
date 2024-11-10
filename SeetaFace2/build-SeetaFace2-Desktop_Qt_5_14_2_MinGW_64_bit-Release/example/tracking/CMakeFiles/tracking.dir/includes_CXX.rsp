@@ -1,0 +1,1 @@
+-IF:/SeetaFace2/SeetaFace2/example/tracking -IF:/SeetaFace2/SeetaFace2/SeetaNet/include -IF:/SeetaFace2/SeetaFace2/FaceTracker/include -isystem F:/OpenCV_BY/include

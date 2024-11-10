@@ -1,0 +1,4 @@
+
+#define OPENCV_INSTALL_PREFIX "F:/OpenCV_BY"
+
+#define OPENCV_TEST_DATA_INSTALL_PATH "testdata"

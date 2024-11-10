@@ -1,0 +1,1 @@
+-IF:/SeetaFace2/SeetaFace2/SeetaNet -IF:/SeetaFace2/SeetaFace2/SeetaNet/include -IF:/SeetaFace2/SeetaFace2/SeetaNet/src/include_inner -IF:/SeetaFace2/SeetaFace2/SeetaNet/src/include_inner/layers -IF:/SeetaFace2/SeetaFace2/SeetaNet/src -I"F:/SeetaFace2/build-SeetaFace2-Desktop_Qt_5_14_2_MinGW_64_bit-Release"
